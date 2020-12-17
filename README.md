@@ -1,5 +1,5 @@
 # node-heap-repl
-Heap implementation for the Node repl WIP
+Heap algorithm implementation for the Node repl WIP
 
 ## Usage
 
