@@ -118,8 +118,10 @@ class Heap  {
 
     
 }
+// init
 let heap = new Heap();
 
+// set up the repl environment
 global.seed = function () {
     console.log(heap.data);
     let lastIndex = heap.data.length-1;
